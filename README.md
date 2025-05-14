@@ -1,7 +1,7 @@
 # 👨‍💻 Md. A.T.M Shah Riar Kabir
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=2E77F2&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;MERN+Stack+Specialist;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=2E77F2&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;MERN+Stack+Specialist;Problem+Solver;Web+Application+Expert" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -10,6 +10,33 @@
   <a href="https://github.com/shahriarkabirT"><img src="https://img.shields.io/badge/GitHub-shahriarkabirT-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/shahriar-kabir/"><img src="https://img.shields.io/badge/LinkedIn-Shahriar_Kabir-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
+
+## 🛠️ Technical Skills
+
+<div align="center">
+  <h3>Frontend</h3>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  
+  <h3>Backend</h3>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  
+  <h3>DevOps & Tools</h3>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+</div>
 
 ## 📌 About Me
 
@@ -30,49 +57,94 @@ const shahriarKabir = {
 
 ### Fullstack Developer (Contractual)
 **Gonoshasthaya Samaj Vittik Medical College, Savar** | *Feb 2025 - Mar 2025*
-- Developed Official Portal with MERN stack
-- Implemented features including Notice, Image, Faculty, and Bulk Alumni Uploads
-- Created dynamic information update functionality
-- [gonosvmc.edu.bd](https://gonosvmc.edu.bd/)
+- Developed dynamic Official Portal using MERN stack with responsive design
+- Implemented comprehensive content management for Notice, Image, Faculty, and Alumni data
+- Created secure admin dashboard for institutional data management
+- 🔗 [gonosvmc.edu.bd](https://gonosvmc.edu.bd/)
 
 ### Fullstack Developer (Contractual)
 **Vidyamayee Government Girls Highschool, Mymensingh** | *Dec 2024 - Feb 2025*
-- Developed Official Portal with MERN stack featuring authentication, notice, image, and video uploads
-- Built and maintained Result Processing Website with ID card, testimonial, marksheet generation
-- Implemented student profiles and bulk information upload functionality
-- [vidyamayee.edu.bd](https://vidyamayee.edu.bd/) | [result.vidyamayee.edu.bd](https://result.vidyamayee.edu.bd/)
+- Designed and built two interconnected portals: Official Website and Result Processing System
+- Implemented secure authentication, media management, and dynamic content updates
+- Developed automated document generation system (ID cards, testimonials, marksheets)
+- Created efficient bulk data processing functionality for student information
+- 🔗 [vidyamayee.edu.bd](https://vidyamayee.edu.bd/) | [result.vidyamayee.edu.bd](https://result.vidyamayee.edu.bd/)
 
 ### Jr Software Engineer (Intern - Remote)
 **CodeElevate Tech, San Francisco, California** | *Aug 2024 - Nov 2024*
-- Developed Elevatemart, a full-functional ecommerce web application using MERN stack
-- Enhanced version of ecommerce site Urbangent using React JS, Redux, Next JS, and MongoDB
-- [urbargent.vercel.app](https://urbargent.vercel.app)
+- Developed Elevatemart, a full-scale ecommerce platform with product management and secure checkout
+- Enhanced the Urbangent ecommerce application with improved UI/UX and optimized performance
+- Implemented state management using Redux for seamless user experience
+- 🔗 [urbargent.vercel.app](https://urbargent.vercel.app)
 
 ## 💻 Projects
 
-### Collaborative Cloud - IT Solution
-*Apr 2025 - Apr 2025*
-- Developed Dynamic IT portal's Career, Project Showcase, About-us etc.
-- Hosted in Virtual Private Server, Managed Domain and Hosting
-- Implemented using React(Vite), NodeJs, ExpressJs, MongoDb
-- [ccloude.com](https://www.ccloude.com)
-
-### Attendance Management System using Face Recognition
-*Aug 2023 - Jan 2024*
-- Developed facial recognition system for automated attendance tracking
-- Implemented advanced features, including antispoofing and head movement detection
-- Tools Used: Python, OpenCV, DLIB
-
-### Audio GuestBook
-*Jan 2025 - Feb 2025*
-- Created platform for guests to record audio and compile into a digital book
-- Implemented using Next JS, Fastify, and RESTful API
-
-### News Portal
-*Mar 2025 - Mar 2025*
-- Designed and Developed Static News Portal
-- Implemented using HTML, CSS, and Vanilla Javascript
-- [news-portal-two-weld.vercel.app](https://news-portal-two-weld.vercel.app)
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Collaborative Cloud - IT Solution</h3>
+        <p align="center">
+          <a href="https://www.ccloude.com" target="_blank">
+            <img src="https://img.shields.io/badge/View_Project-2E77F2?style=for-the-badge&logo=react&logoColor=white" alt="Project"/>
+          </a>
+          <a href="https://github.com/shahriarkabirT/cc-portal" target="_blank">
+            <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
+          </a>
+        </p>
+        <p>
+          • Developed dynamic IT portal with React (Vite), Node.js, Express, MongoDB<br>
+          • Implemented comprehensive project showcase, career portal, and company info sections<br>
+          • Configured and managed VPS hosting with custom domain setup
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">Attendance Management System</h3>
+        <p align="center">
+          <a href="https://github.com/shahriarkabirT/face-recognition" target="_blank">
+            <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
+          </a>
+        </p>
+        <p>
+          • Built facial recognition system with Python, OpenCV, and DLIB<br>
+          • Developed anti-spoofing measures and head movement detection<br>
+          • Created automated attendance tracking with database integration
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Audio GuestBook</h3>
+        <p align="center">
+          <a href="https://github.com/shahriarkabirT/audio-guestbook" target="_blank">
+            <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
+          </a>
+        </p>
+        <p>
+          • Created digital audio recording platform for event guests<br>
+          • Implemented with Next.js frontend and Fastify backend<br>
+          • Built RESTful API for audio processing and compilation
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">News Portal</h3>
+        <p align="center">
+          <a href="https://news-portal-two-weld.vercel.app" target="_blank">
+            <img src="https://img.shields.io/badge/View_Project-2E77F2?style=for-the-badge&logo=html5&logoColor=white" alt="Project"/>
+          </a>
+          <a href="https://github.com/shahriarkabirT/news-portal" target="_blank">
+            <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
+          </a>
+        </p>
+        <p>
+          • Designed responsive news portal with HTML, CSS, and Vanilla JavaScript<br>
+          • Implemented category-based news filtering and search functionality<br>
+          • Optimized for performance and cross-browser compatibility
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🎓 Education
 
@@ -86,22 +158,16 @@ const shahriarKabir = {
 ### Secondary School Certificate (SSC)
 **Taratia Al Haz Lalmamud High School, Dewanganj, Jamalpur** | *Jan 2015 - May 2017*
 
-## 🛠️ Skills
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahriarkabirT&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahriarkabirT&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriarkabirT&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
 ## 📊 GitHub Stats
 
@@ -126,6 +192,15 @@ const shahriarKabir = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahriarkabirT&color=blue" alt="Profile Views" />
-  <p>Let's connect and build something amazing together!</p>
+  <img src="https://komarev.com/ghpvc/?username=shahriarkabirT&color=2E77F2&style=for-the-badge" alt="Profile Views" />
+  
+  <h3>💼 Open for Opportunities</h3>
+  
+  <a href="https://shahriarkabir.xyz/contact">
+    <img src="https://img.shields.io/badge/Contact_Me-2E77F2?style=for-the-badge&logo=mailgun&logoColor=white" alt="Contact Me"/>
+  </a>
+  
+  <p>Let's connect and build something amazing together! Check out my <a href="https://shahriarkabir.xyz">portfolio</a> for more details.</p>
+  
+  ![Wave](https://raw.githubusercontent.com/shahriarkabirT/shahriarkabirT/main/wave.svg)
 </div>
