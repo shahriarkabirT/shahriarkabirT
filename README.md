@@ -42,43 +42,6 @@
 
 Full-stack developer with expertise in the MERN stack and a strong foundation in software development principles. I specialize in building responsive web applications, implementing authentication systems, and managing VPS hosting environments. I'm skilled at translating client requirements into functional solutions with a focus on exceptional user experience. Currently exploring AI technologies and software quality assurance methodologies.
 
-```javascript
-const ShahriarKabir = {
-  name: "Md. A.T.M Shah Riar Kabir",
-  title: "Full-Stack Developer",
-  contact: {
-    email: "shahriarkabir078@gmail.com",
-    website: "https://shahriarkabir.xyz",
-    github: "github.com/shahriarkabirT",
-    location: "Uttara, Dhaka, Bangladesh"
-  },
-  technical: {
-    languages: [
-      "JavaScript", "TypeScript", "HTML", "CSS", 
-      "PHP", "Java", "C++", "C#", "C"
-    ],
-    frontend: [
-      "React.js", "Next.js", "Redux", 
-      "Vanilla JavaScript", "Tailwind CSS", "Bootstrap"
-    ],
-    backend: [
-      "Node.js", "Express.js", "MongoDB", 
-      "SQL", "PostgreSQL", "RESTful APIs"
-    ],
-    devOps: [
-      "Git", "GitHub", "CI/CD", 
-      "VPS Hosting (Linux)", "Docker"
-    ],
-    deployment: [
-      "Render", "Vercel", "Netlify", 
-      "Webuzo", "DigitalOcean"
-    ]
-  },
-  currentFocus: "Building scalable web applications with the MERN stack",
-  funFact: "I love exploring new technologies and finding creative solutions to complex problems"
-}
-```
-
 ## 🚀 Professional Experience
 
 ### Fullstack Developer (Contractual)
